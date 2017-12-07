@@ -3,17 +3,29 @@
 This site displays my past works and even some of my current one's. 
 
 ## Game Design
-Current Game: The Maze of Life
+Current Game: **The Maze of Life**
 
-This game is about mental health in young adults. We explore the mind of a teenage girl and her own maze through life. This is a first and third person game that includes puzzle elements. 
+This game is explores mental health in young adults. We explore the mind of a teenage girl and her own maze through life. This is a first and third person game that includes puzzle elements. 
+*Release Date 1 January 2018*
 
-Coming soon.
+Previous Games: 
 
+**Alien Game**
+
+Aliens have invaded Dillard High School. It is up to you to stop the spread of the alien invasion. This is an action side scroller game.
+*Coming Soon a downloadable version of the final game*
+
+**Wrath of a Demigod**
+
+A Demigod is thrown in the future and finds clues about her inhertance. She goes on a journey to find her family.
+*Coming Soon a downloadable version of the final game*
+
+Previous Game
 ## Programs
 Random resturant generator. 
 This application asks for a price range in which it will generate a resturant for you to go to based on your price range. 
 
-Release: Early 2018.
+*Release: Early 2018.*
 
 ## Welcome to GitHub Pages
 
