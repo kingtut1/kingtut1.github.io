@@ -1,6 +1,4 @@
 
-Ok I am the only thing showing.
-
 ## Welcome to kingtut1's Project
 This site displays my past works and even some of my current one's. 
 
