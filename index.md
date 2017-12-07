@@ -5,12 +5,15 @@ This site displays my past works and even some of my current one's.
 ## Game Design
 Current Game: The Maze of Life
 
-This game is about mental health in young adults. We explore the mind of a teenage girl and her own maze through life. This is a first and third person game that includes puzzle elements. Coming soon.
+This game is about mental health in young adults. We explore the mind of a teenage girl and her own maze through life. This is a first and third person game that includes puzzle elements. 
+
+Coming soon.
 
 ## Programs
 Random resturant generator. 
-This application asks for a price range and which it will generate a resturant for you to go to based on your price range. Release: Early 2018.
+This application asks for a price range in which it will generate a resturant for you to go to based on your price range. 
 
+Release: Early 2018.
 
 ## Welcome to GitHub Pages
 
