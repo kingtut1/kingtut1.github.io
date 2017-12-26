@@ -3,10 +3,10 @@
 This site displays my past works and even some of my current one's. 
 
 ## Game Design
-Current Game: **The Maze of Life**
+Current Game: **This is Not A Game**
 
 This game is explores mental health in young adults. We explore the mind of a teenage girl and her own maze through life. This is a first and third person game that includes puzzle elements. 
-*Release Date 1 January 2018*
+*Release Date Early 2018*
 
 Previous Games: 
 
