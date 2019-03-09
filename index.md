@@ -6,7 +6,7 @@ This site displays my past works and even some of my current one's.
 Current Game: **This is Not A Game**
 
 This game is explores mental health in young adults. We explore the mind of a teenage girl and her own maze through life. This is a first and third person game that includes puzzle elements. 
-*Release Date Early 2018*
+*Release Date TBA*
 
 Previous Games: 
 
@@ -25,7 +25,7 @@ Previous Game
 Random resturant generator. 
 This application asks for a price range in which it will generate a resturant for you to go to based on your price range. 
 
-*Release: Early 2018.*
+*Release: TBA*
 
 <!--## Welcome to GitHub Pages>
 
