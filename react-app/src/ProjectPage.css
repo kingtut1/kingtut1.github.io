@@ -1,6 +1,17 @@
 .Card{
     text-align: center;
+    /*
+    padding-left: 5%;
+    padding-right: 5%;
+    */
+    margin-left: 5%;
+    margin-right: 5%
+
+}
+p{
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .title{
-    text-align: center;
+    text-align: center;    
 }

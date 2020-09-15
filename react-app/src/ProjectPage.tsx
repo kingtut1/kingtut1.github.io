@@ -12,14 +12,14 @@ class ProjectPage extends React.Component<{}, {}>{
             <div>
                 <p className = "title"> Projects </p>
                 <p> Here is the list of projects that I have worked on throughout my school years. </p>
-                <Card>
+                <Card className = "Card" /*style={{ width: '75%' }}*/>
                     <Card.Body>
                         <Card.Title className = "title"> Nova Room Registration App </Card.Title>
                         <Card.Text> {RoomAppText} </Card.Text>
                     </Card.Body>
                 </Card>
                 <br></br>
-                <Card>
+                <Card className = "Card">
                     <Card.Title className = "title"> Thanos Snap </Card.Title>
                     <Card.Text> {ThanosText} </Card.Text>
                 </Card>
