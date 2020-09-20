@@ -92,6 +92,43 @@ class ResumePage extends React.Component<{}, {}>{
                     </Media>
                 </ul>
                 <p> Leadership Experience </p>
+                <ul className="list-unstyled">
+                    <Media as="li">
+                        <img
+                            width={64}
+                            height={64}
+                            className="mr-3"
+                            src="holder.js/64x64"
+                            alt="Generic placeholder"
+                        />
+                        <Media.Body>
+                            <h5>President</h5>
+                            <p> Association for Computing Machinery </p>
+                            <ul>
+                                <li>Organized events for ACM members ranging from programming competitions to events to expose students to new technologies</li>
+                                <li>Facilitated partnerships with other clubs to collaborate on events and find opportunities for Computer Science/IT majors</li>
+                            </ul>
+                        </Media.Body>
+                    </Media>
+                    <Media as="li">
+                        <img
+                            width={64}
+                            height={64}
+                            className="mr-3"
+                            src="holder.js/64x64"
+                            alt="Generic placeholder"
+                        />
+                        <Media.Body>
+                            <h5>Software Lead/Member</h5>
+                            <p> First Robotics Competition Team </p>
+                            <ul>
+                                <li>Designed and developed subsystems to complete the challenge for the robot in C++ </li>
+                                <li>Coordinated with electrical, mechanical, and software students/mentors to complete tasks</li>
+                                <li>Worked with vision processing (OpenCV w/ python) to track objects on the field and created autonomous movement for the robot</li>
+                            </ul>
+                        </Media.Body>
+                    </Media>
+                </ul>
 
             </div>
         )
