@@ -1,5 +1,6 @@
 import React from 'react';
 import {Media} from 'react-bootstrap';
+import "./ResumePage.css";
 
 class ResumePage extends React.Component<{}, {}>{
     render() {
@@ -20,7 +21,7 @@ class ResumePage extends React.Component<{}, {}>{
                             width={64}
                             height={64}
                             className="mr-3"
-                            src="holder.js/64x64"
+                            src= ""/*{ require( "../src/images/microsoftLogo.jpg") }*/ 
                             alt="Generic placeholder"
                         />
                         <Media.Body>
