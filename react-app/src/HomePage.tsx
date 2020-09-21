@@ -6,7 +6,7 @@ class HomePage extends React.Component<{}, {}>{
     return (
       <div>
         <p> Content for home page </p>
-        <img src = { require( "../src/images/ProfilePic.JPEG") }/> 
+        <img src = { require( "../src/images/ProfilePic.JPEG") } alt = "Picture of Pharoah Campbell"/> 
         <p> Pharoah Campbell1 </p>
         <p> {introductionText} </p>
       </div>
